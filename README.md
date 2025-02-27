@@ -1,9 +1,5 @@
 # erin-witt.github.io
 
----
-title: "Lab3 Website"
----
-
 ## An Open Letter to the Mayor of NYC
 
 **Dear Mayor Adams,**
